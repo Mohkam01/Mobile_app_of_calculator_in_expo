@@ -150,7 +150,7 @@ class App extends Component {
           });
         }
       } else {
-        this.setState({ screen: this.state.integer1 });
+        this.setState({ screen: this.state.integer2 });
       }
     }
   };
